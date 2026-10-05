@@ -31,17 +31,21 @@ A project comparing human and AI perceptions of emotion in music, combining audi
 
 **Technologies:** Python, PyTorch, Streamlit
 
-### 📊 Fintech Credit Risk Engine
+### 📊 [Fintech Credit Risk Engine](https://github.com/ecemy3/fintech-credit-risk-engine)
 
 A credit risk project using Lending Club loan data, with data processing, feature engineering, model comparison, and a dashboard.
 
 **Technologies:** Apache Spark, Apache Kafka, Delta Lake, MLflow, Streamlit
 
-### ⚡ Rate Limiting & Caching System
+### ⚡ [Rate Limiting & Caching System](https://github.com/Berili4/RateLimitinApi)
 
 A backend project exploring request rate limiting and caching with Redis and DynamoDB.
 
 **Technologies:** ASP.NET Core, Redis, DynamoDB, Docker
+
+### ✏️ [MLP & RNN Sketch Classifier](https://github.com/Berili4/mlp-rnn-sketch-classifier)
+
+A sketch classification project exploring Multilayer Perceptron (MLP) and Recurrent Neural Network (RNN) models.
 
 ## Currently Exploring
 
@@ -52,5 +56,8 @@ A backend project exploring request rate limiting and caching with Redis and Dyn
 ## Let's Connect
 
 I'm interested in opportunities and collaborations in data engineering and AI.
+
+- **LinkedIn:** [Beril İsalar](https://www.linkedin.com/in/beril-isalar-40a1ba256/)
+- **E-mail:** [isalarberil@gmail.com](mailto:isalarberil@gmail.com)
 
 [Explore my repositories](https://github.com/Berili4?tab=repositories)
